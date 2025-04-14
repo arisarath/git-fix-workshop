@@ -19,3 +19,4 @@ ggplot(df, aes(x = category, y = value, fill = category)) +
 
 Line 1
 Line 2
+Line 3
