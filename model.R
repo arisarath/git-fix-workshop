@@ -18,3 +18,4 @@ ggplot(df, aes(x = category, y = value, fill = category)) +
   theme_minimal()
 
 Line 1
+Line 2
